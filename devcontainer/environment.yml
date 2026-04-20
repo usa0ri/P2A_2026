@@ -1,0 +1,61 @@
+name: dev
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - python=3.12
+  - jupyter
+  - jupyterlab
+  - cython
+  - numpy
+  - pandas
+  - matplotlib
+  - folium
+  - lxml
+  - nltk
+  - pysam
+  - scikit-learn
+  - seaborn
+  # - matplotlib-venn
+  # - scanpy
+  - logomaker
+  - openpyxl
+  # - mpl-scatter-density
+  - statsmodels
+  - biopython
+  - snapgene-reader  # Alternative package name in Conda
+  - tensorly
+  - pyqtgraph
+  - scikit-image
+  - tqdm
+  - python-edlib
+  # - scikit-optimize
+  - scipy
+  - py-xgboost
+  - h5py
+  - umap-learn
+  - pip
+  - libgcc-ng
+  - eternafold=1.3.1
+  - contrafold
+  - viennarna
+  - linearfold
+  - pillow
+  - pip:
+      - pyqt6
+      - parasail
+      # - pydivsufsort
+      # - rust-sasa-python
+      - codon-bias
+      - torch
+      # - optuna
+      - pyro-ppl
+      - transformers
+      - multimolecule
+      - arnie
+      - draw_rna
+      - peft
+      - captum
+      # - modisco-lite
+      # - PyMOL-PUB

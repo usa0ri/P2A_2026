@@ -1,0 +1,26 @@
+{
+    "name": "myPython",
+    "dockerFile": "Dockerfile",
+    "extensions": [
+        "ms-python.python"
+    ],
+    "mounts":[
+        "source=${localEnv:HOME}/Git/myRiboSeq_res/data,target=/home/data,type=bind,consistency=cached",
+        "source=${localEnv:HOME}/Git/myRiboSeq_res/result,target=/home/result,type=bind,consistency=cached",
+        "source=${localEnv:HOME}/Git/myRiboSeq_res/ref,target=/home/ref,type=bind,consistency=cached"
+    ],
+    "workspaceMount": "source=${localEnv:HOME}/Git/myRiboSeq/python,target=/home,type=bind,consistency=cached",
+    "workspaceFolder": "/home",
+    "containerEnv": {
+        "DISPLAY": "unix:0"
+    },
+    "runArgs": [
+        "--privileged",
+        "--env", "QT_DEBUG_PLUGINS=1",
+        "--env", "DISPLAY=${env:DISPLAY}",
+        "--volume", "/tmp/.X11-unix:/tmp/.X11-unix"
+    ],
+    "remoteUser": "saori",
+    "postCreateCommand": "fc-cache -f -v",
+    "features": {}
+}

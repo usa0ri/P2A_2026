@@ -1,0 +1,37 @@
+smpl_number,exp_name,sample,fname,column,reporter,start_P2A,type
+0,data20251217_xincheng,S080-Con_one_P2A_eIF5AKD,find_subsequence_mm2_data20251217_S080-Con_one_P2A,S80Con-1P2A eIF5A KD,S080-Con_one_P2A,1199,ribo-seq
+1,data20251217_xincheng,S080_eIF5AKD,find_subsequence_mm2_data20251217_S080,S80Con-2P2A eIF5A KD,S080,1241,ribo-seq
+2,data20251217_xincheng,S080-LwoHiBiT_one_P2A,find_subsequence_mm2_data20251217_S080-LwoHiBiT_one_P2A,S80Leu w/o HiBiT 1P2A,S080-LwoHiBiT_one_P2A,1286,ribo-seq
+3,data20251217_xincheng,S080-L_2P2A_No_HiBiT,find_subsequence_mm2_data20251217_S080-L_2P2A_No_HiBiT,S80Leu w/o HiBiT 2P2A,S080-L_2P2A_No_HiBiT,1328,ribo-seq
+4,data20251217_xincheng,S080-Con_one_P2A_No_GSG,find_subsequence_mm2_data20251217_S080-Con_one_P2A_No_GSG,S80Con-1P2A wo GSG,S080-Con_one_P2A_No_GSG,1190,ribo-seq
+5,data20251217_xincheng,S080-Con_one_P2A_SRI-41315,find_subsequence_mm2_data20251217_S080-Con_one_P2A,S80Con-1P2A + SRI-41315,S080-Con_one_P2A,1199,ribo-seq
+6,data20251217_xincheng,S080_SRI-41315,find_subsequence_mm2_data20251217_S080,S80Con-2P2A + SRI-41315,S080,1241,ribo-seq
+7,data20251217_xincheng,S080-L_one_P2A_eIF5AKD,find_subsequence_mm2_data20251217_S080-L_one_P2A,S80Leu-1P2A eIF5A KD,S080-L_one_P2A,1319,ribo-seq
+8,data20251217_xincheng,S080-L_eIF5AKD,find_subsequence_mm2_data20251217_S080-L,S80Leu-2P2A eIF5A KD,S080-L,1361,ribo-seq
+9,data20251217_xincheng,S080-P_one_P2A_eIF5AKD,find_subsequence_mm2_data20251217_S080-P_one_P2A,S80Pro-1P2A eIF5A KD,S080-P_one_P2A,1319,ribo-seq
+10,data20251217_xincheng,S080-P_eIF5AKD,find_subsequence_mm2_data20251217_S080-P,S80Pro-2P2A eIF5A KD,S080-P,1361,ribo-seq
+11,data20251217_xincheng,S080-Con_one_P2A,find_subsequence_mm2_data20251217_S080-Con_one_P2A,S80Con-1P2A,S080-Con_one_P2A,1199,ribo-seq
+12,data20251217_xincheng,S080,find_subsequence_mm2_data20251217_S080,S80Con-2P2A,S080,1241,ribo-seq
+13,data20251030_xincheng,S080-P_one_P2A,find_subsequence_mm2_data20251030_S080-P_one_P2A,P2A-PRO,S080-P_one_P2A,1319,ribo-seq
+14,data20251030_xincheng,S080-L_one_P2A,find_subsequence_mm2_data20251030_S080-L_one_P2A,P2A-LEU,S080-L_one_P2A,1319,ribo-seq
+15,data20251030_xincheng,S080-S_one_P2A,find_subsequence_mm2_data20251030_S080-S_one_P2A,P2A-SER,S080-S_one_P2A,1319,ribo-seq
+16,data20251030_xincheng,S080-F_one_P2A,find_subsequence_mm2_data20251030_S080-F_one_P2A,P2A-PHE,S080-F_one_P2A,1292,ribo-seq
+17,data20251030_xincheng,S080-G1-L_one_P2A,find_subsequence_mm2_data20251030_S080-G1-L_one_P2A,P2A-1GGGS,S080-G1-L_one_P2A,1334,ribo-seq
+18,data20251030_xincheng,S080-G3-L_one_P2A,find_subsequence_mm2_data20251030_S080-G3-L_one_P2A,P2A-3GGGS,S080-G3-L_one_P2A,1364,ribo-seq
+19,data20251030_xincheng,S080-B1,find_subsequence_mm2_data20251030_S080-B1,B1,S080-B1,1193,ribo-seq
+20,data20251030_xincheng,S080-B2,find_subsequence_mm2_data20251030_S080-B2,B2,S080-B2,1193,ribo-seq
+21,data20250912_xincheng,S080-L,find_subsequence_mm2_data20250912_S080-L,S080-L,S080-L,1361,ribo-seq
+22,data20250912_xincheng,S080-L-G1,find_subsequence_mm2_data20250912_S080-L-G1,S080-L-G1,S080-L-G1,1376,ribo-seq
+23,data20250912_xincheng,S080-L-G3,find_subsequence_mm2_data20250912_S080-L-G3,S080-L-G3,S080-L-G3,1406,ribo-seq
+24,data20250912_xincheng,S080-P,find_subsequence_mm2_data20250912_S080-P,S080-P,S080-P,1361,ribo-seq
+25,data20250912_xincheng,S080-F,find_subsequence_mm2_data20250912_S080-F,S080-F,S080-F,1334,ribo-seq
+26,data20250912_xincheng,S080-S,find_subsequence_mm2_data20250912_S080-S,S80-S,S080-S,1361,ribo-seq
+27,data20250812_xincheng,S080-F,find_subsequence_mm2_data20250812_S080-F,S80-F,S080-F,1334,ribo-seq
+28,data20250812_xincheng,S080-S,find_subsequence_mm2_data20250812_S080-S,S80-S,S080-S,1361,ribo-seq
+29,data20250812_xincheng,S080-L,find_subsequence_mm2_data20250812_S080-L,S80-L,S080-L,1361,ribo-seq
+30,data20250812_xincheng,S080-L-G1,find_subsequence_mm2_data20250812_S080-L-G1,S80-L-G1,S080-L-G1,1376,ribo-seq
+31,data20250812_xincheng,S080-L-G3,find_subsequence_mm2_data20250812_S080-L-G3,S80-L-G3,S080-L-G3,1406,ribo-seq
+32,data20260413_xincheng,S080-Con_one_P2A_rep2,find_subsequence_mm2_data20260413_S080-Con_one_P2A,Con1P2A Mono,S080-Con_one_P2A,1199,ribo-seq
+33,data20260413_xincheng,S080-Con_one_P2A_SRI-41315_rep2,find_subsequence_mm2_data20260413_S080-Con_one_P2A,Con1P2A SRI Mono,S080-Con_one_P2A,1199,ribo-seq
+34,data20260413_xincheng,S080-Con_one_P2A_disome,find_subsequence_mm2_data20260413_S080-Con_one_P2A,Con1P2A Disome,S080-Con_one_P2A,1199,disome-seq
+35,data20260413_xincheng,S080-Con_one_P2A_SRI-41315_disome,find_subsequence_mm2_data20260413_S080-Con_one_P2A,Con1P2A SRI Disome,S080-Con_one_P2A,1199,disome-seq
